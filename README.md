@@ -6,4 +6,8 @@ A Very small application showcasing how this effect can be implemented using Win
 
 The code is extrememly minimal, so give it a shot using this in your own projects elsewhere!
 
+The app also supports changing the image to any ratio, and supports transparency.
+
+<img src="https://github.com/user-attachments/assets/5b0e13b7-98ee-43a0-8ebc-4ad62d9d285c" width=600>
+
 (Let me plug my favourite project, [Clickett](https://github.com/NathanDagDane/Clickett), here!)
