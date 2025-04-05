@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="">
+    <img src="https://github.com/NathanDagDane/ArcCard-Demo/blob/master/Arc%20Card%20Demo/Assets/Square44x44Logo.altform-unplated_targetsize-256.png?raw=true" alt="Logo" width="80">
+  </a>
   <h1>Arc Card Demo</h1>
   <h3>A UWP implementation of Arc's membership card viewer on MacOS</h3>
   <a href="">
@@ -13,7 +16,7 @@ The app also supports changing the image to any ratio, and supports transparency
 
 <div align="center">
   <a href="">
-    <img src="https://github.com/user-attachments/assets/5b0e13b7-98ee-43a0-8ebc-4ad62d9d285c" alt="Animation demonstration" width="500">
+    <img src="https://github.com/user-attachments/assets/5b0e13b7-98ee-43a0-8ebc-4ad62d9d285c" alt="Image swapping demonstration" width="500">
   </a>
 </div>
 
